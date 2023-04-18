@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pwku+riY/9msiCf1E6HcO5pPtw5nJnYXRRXLtuA27LL6epn1K/ZmOakJ0b0kAleFALPuZCmnQ+0aeEeN2sKi0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon\\OneDrive - HTL Krems\\1.Schwule Schule\\Sew\\Codes\\Generic\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
