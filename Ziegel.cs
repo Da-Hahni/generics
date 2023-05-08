@@ -2,14 +2,17 @@ namespace ConsoleApp1;
 
 public class Ziegel : IWeightable
 {
-    public enum Art {ganz = 12, halb = 22}
+    private Art gewicht;
 
-    public Art gewicht;
+    public enum Art
+    {
+        ganz = 12,
+        halb = 22
+    }
 
-    public Art ganz;
     public Ziegel(Art EArt)
     {
-        gewicht = EArt;
+       this.gewicht = EArt;
     }
 
     public double GetWeight()
